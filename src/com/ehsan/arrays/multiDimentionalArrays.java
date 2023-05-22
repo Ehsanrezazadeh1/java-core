@@ -18,9 +18,7 @@ public class multiDimentionalArrays {
         System.out.println(siteAdmins[0][0]);
 
 
-        for(int row; row< grid.length;row++) {
-            for (int col; col <grid[row];)
-        }
+
 
     }
 }
